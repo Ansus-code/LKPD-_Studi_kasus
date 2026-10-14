@@ -1,0 +1,5 @@
+jumlah_hari=int(input("Masukkan Jumlah hari pinjam :"))
+batas_pinjam =7
+
+if jumlah_pinjam > 7
+    denda =5000
